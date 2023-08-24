@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaaashraf14" alt="alaaashraf14" /></a> </p>
 
-- 🔭 I’m currently working on **Wealth Wise**
-
 - 📫 How to reach me **alaaashraf347@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaaashraf14&show_icons=true&locale=en" alt="alaaashraf14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaaashraf14&" alt="alaaashraf14" /></p>
+
